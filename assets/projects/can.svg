@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+  <title id="title">02 / CAN · READ THE VEHICLE</title>
+  <desc id="desc">SocketCAN · Frame validation · Freshness checks</desc>
+  <rect width="640" height="240" rx="16" fill="#0b1626"/>
+  <path d="M28 16V224M56 16V224M84 16V224M112 16V224M140 16V224M168 16V224M196 16V224M224 16V224M252 16V224M280 16V224M308 16V224M336 16V224M364 16V224M392 16V224M420 16V224M448 16V224M476 16V224M504 16V224M532 16V224M560 16V224M588 16V224M616 16V224M16 28H624M16 56H624M16 84H624M16 112H624M16 140H624M16 168H624M16 196H624M16 224H624" fill="none" stroke="#1a2a40" stroke-width="0.6"/>
+  <path d="M16 2H624" stroke="#42d4b2" stroke-width="4"/>
+  <g font-family="sans-serif">
+    <text font-family="Arial" x="24" y="36" fill="#42d4b2" font-size="13" font-weight="700" letter-spacing="1.8">02 / CAN · READ THE VEHICLE</text>
+    <text font-family="Arial" x="24" y="64" fill="#b9cada" font-size="14">SocketCAN · Frame validation · Freshness checks</text>
+    
+    <rect x="26" y="108" width="112" height="76" rx="12" fill="#12332f" stroke="#42d4b2"/>
+    <text font-family="Arial" x="82" y="140" text-anchor="middle" fill="#eafff8" font-size="22" font-weight="700">TX</text>
+    <text font-family="Arial" x="82" y="163" text-anchor="middle" fill="#b9cada" font-size="12">CAN frames</text>
+    <path d="M145 146H205M435 146H495" stroke="#42d4b2" stroke-width="2"/>
+    <rect x="215" y="95" width="210" height="43" rx="8" fill="#152a3a" stroke="#2c5460"/>
+    <text font-family="Arial" x="320" y="122" text-anchor="middle" fill="#eafff8" font-size="14">0x100 · Engine speed</text>
+    <rect x="215" y="155" width="210" height="43" rx="8" fill="#152a3a" stroke="#2c5460"/>
+    <text font-family="Arial" x="320" y="182" text-anchor="middle" fill="#eafff8" font-size="14">0x101 · Coolant temp.</text>
+    <rect x="504" y="108" width="110" height="76" rx="12" fill="#12332f" stroke="#42d4b2"/>
+    <text font-family="Arial" x="559" y="140" text-anchor="middle" fill="#eafff8" font-size="22" font-weight="700">RX</text>
+    <text font-family="Arial" x="559" y="163" text-anchor="middle" fill="#b9cada" font-size="12">C / C++</text>
+    <text font-family="Arial" x="320" y="223" text-anchor="middle" fill="#b9cada" font-size="12">Decode · Check · Monitor</text><path d="M205 146l-8 -4v8Z" fill="#42d4b2"/><path d="M495 146l-8 -4v8Z" fill="#42d4b2"/>
+  </g>
+</svg>

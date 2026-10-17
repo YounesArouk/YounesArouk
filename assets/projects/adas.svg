@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="title desc">
+  <title id="title">04 / DRIVEGUARD · ADAS</title>
+  <desc id="desc">4WD robot · Model-in-the-Loop validation</desc>
+  <rect width="640" height="240" rx="16" fill="#0b1626"/>
+  <path d="M28 16V224M56 16V224M84 16V224M112 16V224M140 16V224M168 16V224M196 16V224M224 16V224M252 16V224M280 16V224M308 16V224M336 16V224M364 16V224M392 16V224M420 16V224M448 16V224M476 16V224M504 16V224M532 16V224M560 16V224M588 16V224M616 16V224M16 28H624M16 56H624M16 84H624M16 112H624M16 140H624M16 168H624M16 196H624M16 224H624" fill="none" stroke="#1a2a40" stroke-width="0.6"/>
+  <path d="M16 2H624" stroke="#b4a1ff" stroke-width="4"/>
+  <g font-family="sans-serif">
+    <text font-family="Arial" x="24" y="36" fill="#b4a1ff" font-size="13" font-weight="700" letter-spacing="1.8">04 / DRIVEGUARD · ADAS</text>
+    <text font-family="Arial" x="24" y="64" fill="#b9cada" font-size="14">4WD robot · Model-in-the-Loop validation</text>
+    
+    <rect x="29" y="100" width="90" height="30" rx="7" fill="#2b254a" stroke="#6b5a9f"/><text font-family="Arial" x="74" y="120" text-anchor="middle" fill="#eee8ff" font-size="14">ACC</text>
+    <rect x="29" y="142" width="90" height="30" rx="7" fill="#2b254a" stroke="#6b5a9f"/><text font-family="Arial" x="74" y="162" text-anchor="middle" fill="#eee8ff" font-size="14">FCW</text>
+    <rect x="29" y="184" width="90" height="30" rx="7" fill="#2b254a" stroke="#6b5a9f"/><text font-family="Arial" x="74" y="204" text-anchor="middle" fill="#eee8ff" font-size="14">AEB</text>
+    <path d="M219 133Q320 52 421 133M248 142Q320 85 392 142M277 151Q320 119 363 151" fill="none" stroke="#b4a1ff" stroke-width="1.5" opacity="0.8"/>
+    <rect x="285" y="155" width="70" height="64" rx="12" fill="#332d55" stroke="#d8ceff" stroke-width="2"/>
+    <rect x="272" y="162" width="10" height="18" rx="3" fill="#b4a1ff"/><rect x="358" y="162" width="10" height="18" rx="3" fill="#b4a1ff"/>
+    <rect x="272" y="193" width="10" height="18" rx="3" fill="#b4a1ff"/><rect x="358" y="193" width="10" height="18" rx="3" fill="#b4a1ff"/>
+    <path d="M300 170H340M320 176V200" stroke="#b4a1ff" stroke-width="2"/>
+    <rect x="456" y="113" width="155" height="32" rx="16" fill="#2b254a" stroke="#6b5a9f"/>
+    <text font-family="Arial" x="533" y="134" text-anchor="middle" fill="#eee8ff" font-size="12" font-weight="700">IN PROGRESS</text>
+    <text font-family="Arial" x="533" y="174" text-anchor="middle" fill="#b9cada" font-size="12">Embedded integration</text>
+    <text font-family="Arial" x="533" y="195" text-anchor="middle" fill="#b9cada" font-size="12">planned</text>
+  </g>
+</svg>

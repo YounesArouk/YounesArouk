@@ -5,87 +5,169 @@
 </p>
 
 <h1 align="center">Younes AROUK</h1>
-
-<p align="center"><strong>MODEL. BUILD. VALIDATE.</strong></p>
-
-<p align="center">
-  An engineering notebook for automotive mechatronics and embedded systems.<br />
-  From a vehicle signal to a validated function.
-</p>
+<h3 align="center">MODEL. BUILD. VALIDATE.</h3>
+<p align="center">Automotive mechatronics · Embedded systems · Systems engineering</p>
 
 <p align="center">
-  <a href="https://portfolio-younes-arouk.vercel.app/">Explore my portfolio</a>
-  &nbsp; · &nbsp;
-  <a href="https://younesarouk.github.io/CV-html/">CV · FR / EN</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:aroukyounes2@gmail.com">Get in touch</a>
+  <a href="https://portfolio-younes-arouk.vercel.app/"><img src="assets/badges/portfolio.svg" alt="Portfolio: Visit" /></a>
+  <a href="https://younesarouk.github.io/CV-html/"><img src="assets/badges/cv.svg" alt="CV: FR / EN" /></a>
+  <a href="mailto:aroukyounes2@gmail.com"><img src="assets/badges/email.svg" alt="Email: Contact" /></a>
 </p>
 
----
+## 01 / 👋 Engineering snapshot
 
-I am a final-year **Automotive & Digital Solutions engineering student at ENSA Berrechid, Morocco**, and a work-study **Design Release Engineer (DRE) / Component Owner at SEGULA Technologies**. My projects bring together mechanics, electronics and software, with an interest in how automotive systems communicate, update and behave when something goes wrong.
-
-## 01 / Inside the lab
+**I connect mechanics, electronics and software through automotive projects.** My interests: how systems communicate, update and behave when something goes wrong.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><sub>01 · EMBEDDED LINUX / OTA</sub></p>
-      <h3>Keep the system up to date</h3>
-      <p><strong>Secure OTA &amp; Multi-ECU Simulation</strong></p>
-      <p>A simulation of <strong>28 ECUs</strong> combined with a Yocto/RAUC target under QEMU. Update sequencing, signed updates, fault scenarios, rollback and a monitoring dashboard.</p>
-      <p><code>Python</code> <code>Yocto</code> <code>RAUC</code> <code>QEMU</code> <code>FastAPI</code></p>
+      <h3>🎓 My background</h3>
+      <p>Final-year <strong>Automotive &amp; Digital Solutions engineering student</strong> at ENSA Berrechid, Morocco.</p>
+      <p>Work-study <strong>Design Release Engineer (DRE) / Component Owner</strong> at SEGULA Technologies.</p>
+      <p><img src="assets/badges/dre.svg" alt="SEGULA Technologies: DRE Work Study" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 My next step</h3>
+      <p>A <strong>final-year internship</strong> in automotive mechatronics or embedded systems, contributing to design, integration and validation.</p>
+      <p>Current project focus: <strong>DriveGuard</strong>, an ADAS demonstrator on a 4WD robot.</p>
+      <p><img src="assets/badges/pfe.svg" alt="Available for: PFE Internship" /></p>
+    </td>
+  </tr>
+</table>
+
+## 02 / 🧰 Technical stack
+
+### Programming
+
+<p>
+  <img src="assets/badges/c.svg" alt="C" />
+  <img src="assets/badges/cpp.svg" alt="C++" />
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/shell.svg" alt="Shell" />
+</p>
+
+### Embedded targets & communication
+
+<p>
+  <img src="assets/badges/stm32.svg" alt="STM32" />
+  <img src="assets/badges/esp32.svg" alt="ESP32" />
+  <img src="assets/badges/rpi.svg" alt="Raspberry Pi" />
+  <img src="assets/badges/arduino.svg" alt="Arduino" />
+  <img src="assets/badges/can.svg" alt="CAN / SocketCAN" />
+</p>
+
+Interfaces: **CAN, SPI, UART/USART and I2C**.
+
+### Embedded Linux & OTA
+
+<p>
+  <img src="assets/badges/linux.svg" alt="Linux" />
+  <img src="assets/badges/yocto.svg" alt="Yocto / Poky" />
+  <img src="assets/badges/rauc.svg" alt="RAUC" />
+  <img src="assets/badges/qemu.svg" alt="QEMU" />
+</p>
+
+BitBake · signed updates · A/B partitions · rollback.
+
+### Modelling & systems engineering
+
+<p>
+  <img src="assets/badges/matlab.svg" alt="MATLAB / Simulink" />
+  <img src="assets/badges/catia.svg" alt="CATIA V5" />
+  <img src="assets/badges/kicad.svg" alt="KiCad" />
+  <img src="assets/badges/sysml.svg" alt="SysML" />
+</p>
+
+Functional analysis · requirements · Cameo Systems Modeler · V-model · Proteus.
+
+### Development & validation
+
+<p>
+  <img src="assets/badges/git.svg" alt="Git" />
+  <img src="assets/badges/cubeide.svg" alt="STM32CubeIDE" />
+</p>
+
+Model-in-the-Loop (MIL) · fault injection · health checks · logs · FastAPI dashboards.
+
+### Foundational knowledge
+
+<p>
+  <img src="assets/badges/freertos.svg" alt="FreeRTOS: Basics" />
+  <img src="assets/badges/autosar.svg" alt="AUTOSAR: Basics" />
+  <img src="assets/badges/aspice.svg" alt="ASPICE: Basics" />
+  <img src="assets/badges/iso26262.svg" alt="ISO 26262: Basics" />
+</p>
+
+STM32 HAL · GPIO · PWM · timers · interrupts · RTOS fundamentals.
+
+## 03 / 🧪 Inside the lab
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/YounesArouk/pfa-ota-multi-ecu"><img src="assets/projects/ota.svg" width="100%" alt="Secure OTA &amp;amp; Multi-ECU Simulation — project overview" /></a>
+      <h3>Secure OTA &amp; Multi-ECU Simulation</h3>
+      <p><strong>28 simulated ECUs</strong> and a Yocto/RAUC target under QEMU: update sequencing, signed updates, fault scenarios, rollback and a monitoring dashboard.</p>
+      <p>
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/yocto.svg" alt="Yocto / Poky" />
+  <img src="assets/badges/rauc.svg" alt="RAUC" />
+  <img src="assets/badges/qemu.svg" alt="QEMU" />
+</p>
       <p><a href="https://github.com/YounesArouk/pfa-ota-multi-ecu">Explore the OTA project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <p><sub>02 · VEHICLE COMMUNICATION</sub></p>
-      <h3>Read the vehicle</h3>
-      <p><strong>CAN Communication</strong></p>
+      <a href="https://github.com/YounesArouk/Gestion_CAN"><img src="assets/projects/can.svg" width="100%" alt="CAN Communication — project overview" /></a>
+      <h3>CAN Communication</h3>
       <p>A Linux SocketCAN receiver that decodes engine speed and coolant temperature, validates frames and detects stale measurements.</p>
-      <p><code>C11</code> <code>C++17</code> <code>SocketCAN</code> <code>Linux</code></p>
+      <p>
+  <img src="assets/badges/c.svg" alt="C" />
+  <img src="assets/badges/cpp.svg" alt="C++" />
+  <img src="assets/badges/can.svg" alt="CAN / SocketCAN" />
+  <img src="assets/badges/linux.svg" alt="Linux" />
+</p>
       <p><a href="https://github.com/YounesArouk/Gestion_CAN">Explore the CAN project →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><sub>03 · DATA / DRIVER FEEDBACK</sub></p>
-      <h3>Turn data into feedback</h3>
-      <p><strong>Intelligent Driving Coach</strong></p>
-      <p>Driving data travels over CAN to a Raspberry Pi, where a model analyses driving behaviour and produces a score and recommendations.</p>
-      <p><code>Python</code> <code>Raspberry Pi</code> <code>Arduino</code> <code>MCP2515</code> <code>CAN</code></p>
+      <a href="https://github.com/YounesArouk/coach-conduite-intelligent"><img src="assets/projects/coach.svg" width="100%" alt="Intelligent Driving Coach — project overview" /></a>
+      <h3>Intelligent Driving Coach</h3>
+      <p>CAN data analysed on a Raspberry Pi by a model that produces a driving score and recommendations.</p>
+      <p>
+  <img src="assets/badges/python.svg" alt="Python" />
+  <img src="assets/badges/rpi.svg" alt="Raspberry Pi" />
+  <img src="assets/badges/arduino.svg" alt="Arduino" />
+  <img src="assets/badges/can.svg" alt="CAN / SocketCAN" />
+</p>
       <p><a href="https://github.com/YounesArouk/coach-conduite-intelligent">Explore the driving coach →</a></p>
     </td>
     <td width="50%" valign="top">
-      <p><sub>04 · ADAS / WORK IN PROGRESS</sub></p>
-      <h3>Build a safer drive</h3>
-      <p><strong>DriveGuard · 4WD Robot</strong></p>
-      <p>ACC, FCW and AEB functions modelled and validated in MATLAB/Simulink (MIL). C/C++ integration on STM32 and Raspberry Pi, CAN communication and Qt supervision are planned.</p>
-      <p><code>MATLAB</code> <code>Simulink</code> <code>MIL</code> <code>ADAS</code></p>
-      <p><em>Current focus: moving from the model towards embedded integration.</em></p>
+      <img src="assets/projects/adas.svg" width="100%" alt="DriveGuard · 4WD Robot — project overview" />
+      <h3>DriveGuard · 4WD Robot</h3>
+      <p>ACC, FCW and AEB modelled and validated in MATLAB/Simulink (MIL). C/C++ integration on STM32 and Raspberry Pi, CAN communication and Qt supervision are <strong>planned</strong>.</p>
+      <p>
+  <img src="assets/badges/matlab.svg" alt="MATLAB / Simulink" />
+  <img src="assets/badges/stm32.svg" alt="STM32" />
+  <img src="assets/badges/rpi.svg" alt="Raspberry Pi" />
+</p>
+      <p><em>Work in progress · From the model towards embedded integration.</em></p>
     </td>
   </tr>
 </table>
 
-## 02 / My toolkit, by purpose
-
-| Engineering step | Methods and tools |
-| :--- | :--- |
-| **MODEL & SPECIFY** | MATLAB/Simulink, functional analysis, requirements, SysML, Cameo Systems Modeler, V-model; CATIA V5, KiCad and Proteus. |
-| **BUILD & INTEGRATE** | C, C++, Python, Shell; STM32, ESP32, Raspberry Pi, Arduino; CAN, SPI, UART/USART, I2C; Linux, Yocto/Poky, BitBake, RAUC, Git and STM32CubeIDE. |
-| **TEST & VALIDATE** | Model-in-the-Loop (MIL), QEMU, fault injection, health checks, logs, A/B partitions and rollback scenarios. |
-
-**Foundational knowledge:** STM32 HAL, GPIO, PWM, timers and interrupts; RTOS/FreeRTOS; AUTOSAR, ASPICE and ISO 26262.
-
-## 03 / Learning checkpoints
+## 04 / 🎓 Learning checkpoints
 
 - **Modeling and Simulation with Simulink** — MathWorks / Coursera, May 2026.
 - **Automobile Engineering: How Modern Cars Are Built** — Starweaver.
 
 ---
 
-### Let's work on the next system
-
-I am looking for a **final-year internship in automotive mechatronics or embedded systems**, with opportunities to contribute to design, integration and validation.
-
-**Contact:** [aroukyounes2@gmail.com](mailto:aroukyounes2@gmail.com)  
-**Explore:** [Portfolio](https://portfolio-younes-arouk.vercel.app/) · [CV in French & English](https://younesarouk.github.io/CV-html/)
+<h3 align="center">Let's work on the next system.</h3>
+<p align="center">Interested in automotive mechatronics or embedded systems? Let's connect.</p>
+<p align="center">
+  <a href="mailto:aroukyounes2@gmail.com"><img src="assets/badges/email.svg" alt="Email: Contact" /></a>
+  <a href="https://portfolio-younes-arouk.vercel.app/"><img src="assets/badges/portfolio.svg" alt="Portfolio: Visit" /></a>
+  <a href="https://younesarouk.github.io/CV-html/"><img src="assets/badges/cv.svg" alt="CV: FR / EN" /></a>
+</p>
+<p align="center"><a href="mailto:aroukyounes2@gmail.com">aroukyounes2@gmail.com</a></p>
