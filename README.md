@@ -14,7 +14,7 @@
   <a href="mailto:aroukyounes2@gmail.com"><img src="assets/badges/email.svg" alt="Email: Contact" /></a>
 </p>
 
-## 01 / 👋 Engineering snapshot
+## 01 / Engineering snapshot
 
 **I connect mechanics, electronics and software through automotive projects.** My interests: how systems communicate, update and behave when something goes wrong.
 
@@ -35,7 +35,7 @@
   </tr>
 </table>
 
-## 02 / 🧰 Technical stack
+## 02 /  Technical stack
 
 ### Programming
 
