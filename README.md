@@ -156,7 +156,7 @@ STM32 HAL · GPIO · PWM · timers · interrupts · RTOS fundamentals.
   </tr>
 </table>
 
-## 04 / 🎓 Learning checkpoints
+## 04 / Learning checkpoints
 
 - **Modeling and Simulation with Simulink** — MathWorks / Coursera, May 2026.
 - **Automobile Engineering: How Modern Cars Are Built** — Starweaver.
